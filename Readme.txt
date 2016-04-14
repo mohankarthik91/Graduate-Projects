@@ -1,0 +1,1 @@
+This folder contains source codes and project reports of all the projects, classified by course name, that I have done during my Master's degree.
